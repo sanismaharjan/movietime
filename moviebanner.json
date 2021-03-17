@@ -1,0 +1,121 @@
+[
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 1,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/Black-Widow.jpg",
+    "movieName": "PONMANGAL VANDHAL"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 2,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/GodzillavsKong-1611508305-928x523.jpg",
+    "movieName": "Little Women"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 3,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/GodzillavsKong-1611508305-928x523.jpg",
+    "movieName": "BHOOT The Haunted Ship"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 4,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/loki-thor-ragnarok-poster.jpg",
+    "movieName": "MIRZAPUR"
+  },
+  {
+    "bannerCategoryId": "1",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 5,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/WandaVision-Header-1024x512.jpg",
+    "movieName": "PIKACHU"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 1,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/no_time_to_die_new_poster_banner.jpg",
+    "movieName": "SKULLS & ROSES"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 2,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/WandaVision-Header-1024x512.jpg",
+    "movieName": "COMICSTAAN"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 3,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/Black-Widow.jpg",
+    "movieName": "UPLOAD"
+  },
+  {
+    "bannerCategoryId": "2",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 4,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/Black-Widow.jpg",
+    "movieName": "HUNTERS"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 1,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/GodzillavsKong-1611508305-928x523.jpg",
+    "movieName": "A Beautiful Day"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 2,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/GodzillavsKong-1611508305-928x523.jpg",
+    "movieName": "Black-Mail"
+  },
+  {
+    "bannerCategoryId": "3",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 3,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/loki-thor-ragnarok-poster.jpg",
+    "movieName": "SUFNA"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 1,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/loki-thor-ragnarok-poster.jpg",
+    "movieName": "Inspector Chingum"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 2,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/no_time_to_die_new_poster_banner.jpg",
+    "movieName": "ODDBODS"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 3,
+    "imageUrl": "hhttps://s3.ap-south-1.amazonaws.com/maka.movies/WandaVision-Header-1024x512.jpg",
+    "movieName": "BAJRANGI"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 4,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/WandaVision-Header-1024x512.jpg",
+    "movieName": "Tenali Raman"
+  },
+  {
+    "bannerCategoryId": "4",
+    "fileUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/video.mp4",
+    "id": 5,
+    "imageUrl": "https://s3.ap-south-1.amazonaws.com/maka.movies/WandaVision-Header-1024x512.jpg",
+    "movieName": "WishenPoof"
+  }
+]
